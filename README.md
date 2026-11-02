@@ -1,7 +1,7 @@
 @"
 # 📊 AI-Assisted Campaign Reporter (SaaS MVP)
 
-![Application Interface Dashboard](app_screenshot.png)
+![Application Interface Dashboard](app_screenshot.PNG)
 
 
 A lightweight, automated web application built for digital marketing agencies to eliminate manual spreadsheet work. This tool securely ingests raw ad platform exports (Meta Ads & Google Ads), automatically processes and blends performance metrics, and leverages high-performance LLMs via Groq to draft client-ready weekly performance briefs—exportable instantly as corporate-styled PDFs.
